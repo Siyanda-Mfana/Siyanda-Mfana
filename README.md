@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     
 
     
-# 🖥️ Technical Skills: 
+# 🖥️ Technical Platforms: 
 <p align="left">
      <a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Azure" width="40" height="40"/>
