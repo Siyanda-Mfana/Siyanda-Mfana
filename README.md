@@ -107,7 +107,9 @@ I am a blue teamer, through and through. I love protecting data and users, with 
     <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
   </a>
 </div>
-## Skills
+
+## Practical Skills
+<div>
 [Here are some sample incident investigations done to showcase practical skills]
 
 | Skill                                         | Associated Project         |
@@ -118,6 +120,7 @@ I am a blue teamer, through and through. I love protecting data and users, with 
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siyanda-Mfana&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
