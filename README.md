@@ -111,7 +111,7 @@ I am a blue teamer, through and through. I love protecting data and users, with 
 <div>
 [Here are some sample incident investigations done to showcase practical skills]
 
-| Skill                                         | Associated Project         |
+| Incident                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC109 — Emotet Malware Detected          | <a href="https://medium.com/@siyanda.mfana/soc109-emotet-malware-detected-2e865d8a1495" target="_blank">Malware incident with dynamic analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
