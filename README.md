@@ -61,7 +61,6 @@ I am a blue teamer, through and through. I love protecting data and users, with 
 </p>
 
 # Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ## Network
 <div>
