@@ -114,11 +114,11 @@ I am a blue teamer, through and through. I love protecting data and users, with 
 | Incident                                         | Associated Investigation         |
 |-----------------------------------------------|----------------------------|
 | SOC109 — Emotet Malware Detected          | <a href="https://medium.com/@siyanda.mfana/soc109-emotet-malware-detected-2e865d8a1495" target="_blank">Malware incident with dynamic analysis</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Traffic Monitoring and Attack Detection | Coming Soon|
+| Security Automation with Shuffle SOAR         | Coming Soon|
+| Incident Response Planning and Execution      | Coming Soon|
+| Case Management with TheHive                  | Coming Soon|
+| Scripting and Automation for Threat Mitigation | Coming Soon|
 </div>
 
 # 📊 GitHub Stats:
