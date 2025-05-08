@@ -57,6 +57,10 @@ I am a blue teamer, through and through. I love protecting data and users, with 
       <a href="https://https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="graphql" width="40" height="40"/>
   </a>
+  <a>
+      <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="virtualbox"/>
+  </a>
     
 </p>
 
@@ -105,6 +109,9 @@ I am a blue teamer, through and through. I love protecting data and users, with 
      <a href="https://www.json.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
   </a>
+    <a href="https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.5" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell"/>
+    </a>
 </div>
 
 ## Practical Skills
